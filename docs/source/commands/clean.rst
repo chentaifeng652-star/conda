@@ -1,4 +1,4 @@
-``conda clean``
+conda clean --all --force-pkgs-dirs``conda clean``
 *****************
 
 .. argparse::
